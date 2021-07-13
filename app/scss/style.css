@@ -167,14 +167,6 @@ button, .button {
   background-image: linear-gradient(#2d314d, transparent);
 }
 
-.header .overlay.fade-in {
-  display: block;
-}
-
-.header .overlay.fade-out {
-  display: none;
-}
-
 .header nav {
   padding: 1.0625rem 1.5rem;
 }
